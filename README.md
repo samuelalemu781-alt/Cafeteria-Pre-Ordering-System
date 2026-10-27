@@ -36,6 +36,6 @@ Smart Student Canteen Pre-Ordering System is a full-stack web application design
              Name               Student ID 
 
             Samuel Alemu          4939/17
-            Ibtisam Kedir 
+            Ibtisam Kedir         0349/17
             Remla Wondesen        0544/17 
-            Betelhem Kassaye  
+            Betelhem Kassaye      3709/17
